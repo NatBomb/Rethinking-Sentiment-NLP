@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY") # Insert your own API key here
+api_key = os.getenv("OPENAI_API_KEY")
 client = OpenAI(api_key=api_key)
 
 def analyze_review(review_text):
@@ -20,7 +20,7 @@ def analyze_review(review_text):
                     "role": "system", 
                     "content": (
                         "You are an operational analyst for a gas station. "
-                        "Analyze the review and return the result exclusively in JSON format. "
+                        "Analyze the review and return the result exclusively in JSON format. ALL VALUES IN THE JSON MUST BE IN ENGLISH."
                         "Extract the following fields: "
                         "sentiment (positive/neutral/negative), "
                         "category (cleanliness, customer service, queue, product shortage, infrastructure), "
