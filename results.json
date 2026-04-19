@@ -1,0 +1,125 @@
+[
+    {
+        "sentiment": "positive",
+        "category": "obsługa",
+        "location": "Warsaw",
+        "entities": [
+            "Verva"
+        ],
+        "is_ironic": false,
+        "manager_action": "Continue to maintain the excellent service and pricing strategy for Verva fuel.",
+        "original_review": "Station #456 in Warsaw: Amazing service, Verva fuel is priced well, and there were zero queues at the pumps."
+    },
+    {
+        "sentiment": "negative",
+        "category": "obsługa",
+        "location": "Gdańsk",
+        "entities": [
+            "Stop.Cafe"
+        ],
+        "is_ironic": false,
+        "manager_action": "Improve work organization and staff training during peak hours.",
+        "original_review": "Waited 15 mins for a simple espresso at the Stop.Cafe in Gdansk. Total mess, zero work organization today."
+    },
+    {
+        "sentiment": "negative",
+        "category": "czystość",
+        "location": "Wroclaw",
+        "entities": [],
+        "is_ironic": false,
+        "manager_action": "Zwiększyć częstotliwość czyszczenia toalet oraz przeprowadzić szkolenie dla personelu odpowiedzialnego za utrzymanie czystości.",
+        "original_review": "Wroclaw, station near the A4 highway—the toilets were in a terrible state. Does anyone even clean here?"
+    },
+    {
+        "sentiment": "positive",
+        "category": "obsługa",
+        "location": "Poznań, ulica Głogowska",
+        "entities": [
+            "ORLEN Vitay"
+        ],
+        "is_ironic": false,
+        "manager_action": "Uznanie i nagrodzenie pracownika za doskonałą obsługę.",
+        "original_review": "Poznan, Glogowska street: Very friendly guy at the register, helped me with my ORLEN Vitay app. Superb!"
+    },
+    {
+        "sentiment": "negative",
+        "category": "brak produktu",
+        "location": "Radom",
+        "entities": [
+            "płyn do spryskiwaczy"
+        ],
+        "is_ironic": false,
+        "manager_action": "Utrzymanie stałego zapasu płynu do spryskiwaczy, aby uniknąć przyszłych braków.",
+        "original_review": "Out of windshield washer fluid again at the Radom station. That's the third time this month!"
+    },
+    {
+        "sentiment": "negative",
+        "category": "kolejka",
+        "location": "S7",
+        "entities": [],
+        "is_ironic": true,
+        "manager_action": "Zwiększenie liczby kas, aby zredukować czas oczekiwania.",
+        "original_review": "Love these 'quick' breaks on the S7 route... 25 minutes standing in line for a hot dog. Just great. 😏"
+    },
+    {
+        "sentiment": "positive",
+        "category": "czystość",
+        "location": "Lublin Station (098)",
+        "entities": [
+            "Stop.Cafe",
+            "Verva"
+        ],
+        "is_ironic": false,
+        "manager_action": "Continue maintaining cleanliness and quality of service.",
+        "original_review": "Lublin Station (098): Spotless, efficient staff, fuel in stock, and the coffee tastes great. No complaints."
+    },
+    {
+        "sentiment": "negative",
+        "category": "obsługa",
+        "location": "Kielce",
+        "entities": [],
+        "is_ironic": false,
+        "manager_action": "Zorganizować szkolenie z zakresu obsługi klienta dla pracowników stacji.",
+        "original_review": "The staff at the Kielce station act like they're working there as a punishment. No 'hello', no smile, nothing."
+    },
+    {
+        "sentiment": "negative",
+        "category": "brak produktu",
+        "location": "Krakow, Armii Krajowej",
+        "entities": [
+            "myjnia"
+        ],
+        "is_ironic": false,
+        "manager_action": "Zaktualizować stan dostępności myjni na stronie internetowej.",
+        "original_review": "Krakow, Armii Krajowej: The car wash is out of order even though the website says it's open. Waste of time."
+    },
+    {
+        "sentiment": "positive",
+        "category": "obsługa",
+        "location": "Warszawa",
+        "entities": [
+            "sandwiches"
+        ],
+        "is_ironic": false,
+        "manager_action": "Keep maintaining the quality of sandwiches and staff friendliness.",
+        "original_review": "My favorite pit stop on the way to Warsaw—always fresh sandwiches and the staff is lovely."
+    },
+    {
+        "sentiment": "negative",
+        "category": "brak produktu",
+        "location": "Rzeszow",
+        "entities": [],
+        "is_ironic": false,
+        "manager_action": "Zarządzić priorytetową dostawę diesla oraz zapewnić szkolenie dla personelu na temat dostępności produktów.",
+        "original_review": "No Diesel available at the pump in Rzeszow, and the cashier has no clue when the delivery arrives. Poor."
+    },
+    {
+        "sentiment": "negative",
+        "category": "czystość",
+        "location": "Katowice",
+        "entities": [],
+        "is_ironic": true,
+        "manager_action": "Zwrócić uwagę personelowi na konieczność dokładniejszego czyszczenia podłóg, aby zapobiec sytuacjom z niebezpiecznymi plamami.",
+        "original_review": "The floor at the Katowice station was so clean that I almost slipped on the 'invisible' sticky soda spill. Thanks. 🙄"
+    }
+]
