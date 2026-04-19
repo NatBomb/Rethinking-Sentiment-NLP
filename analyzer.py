@@ -4,7 +4,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = os.getenv("OPENAI_API_KEY") # Insert your own API key here
 client = OpenAI(api_key=api_key)
 
 def analyze_review(review_text):
